@@ -41,7 +41,7 @@ Se quiser rodar este projeto na sua máquina:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/RikkyRS/Calculadora
    ```
 2. Navegue até a pasta do projeto:
    ```bash
