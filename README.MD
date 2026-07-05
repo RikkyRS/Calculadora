@@ -2,7 +2,7 @@
 
 Um aplicativo de calculadora web funcional construído como parte do currículo da fundação **The Odin Project**. O design foi totalmente customizado utilizando o estilo para simular um dispositivo físico realista, com interações táteis nos botões.
 
-> 🚀 [Clique aqui para testar o projeto no GitHub Pages](https://rikkysb)
+> 🚀 [Clique aqui para testar o projeto no GitHub Pages](https://github.com/RikkyRS/Calculadora)
 
 
 ## 📸 Demonstração
